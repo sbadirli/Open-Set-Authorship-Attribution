@@ -21,7 +21,7 @@ The code was implemented in Python Jupyter Notebook. For the list of packages pl
 
 ## Data
 
-You can download the datasets used in the paper from [Dropbox](https://www.dropbox.com/s/yvd5kumuamxecsa/AA%20Data%20and%20MFW1000.zip?dl=0).  Create a `data` folder in your main `project path` and put the data under this folder.
+You can download the datasets used in the paper from [Dropbox](https://www.dropbox.com/s/yvd5kumuamxecsa/AA%20Data%20and%20MFW1000.zip?dl=0).  The dataset contains Authors and their books in a seperate text files, vocabulary list, and most frequent 1000 words.
 
 
 ## Experiments
