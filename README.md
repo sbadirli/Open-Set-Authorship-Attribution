@@ -6,7 +6,7 @@ Authors: *Sarkhan Badirli, Mary B. Ton, Abdulmecit Gungor, and Murat Dundar*
 Paper at: https://arxiv.org/abs/1912.08259
 
 <p align="center">
-  <img width="400" height="400" src="6 authors Word Cloud.pdf">
+  <img width="400" height="400" src="6 authors Word Cloud.jpeg">
 </p>
 <p align="justify">
 
