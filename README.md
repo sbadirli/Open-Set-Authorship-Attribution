@@ -26,7 +26,7 @@ You can download the datasets used in the paper from [Dropbox](https://www.dropb
 
 ## Experiments
 
-To reproduce the results from the paper please execute the corresponding jupyter notebook.
+Jupyter Notebooks are coming soon!
 
 
 ### Contact
